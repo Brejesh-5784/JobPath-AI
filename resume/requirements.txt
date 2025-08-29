@@ -1,0 +1,6 @@
+shiny
+textract
+langchain
+langchain-groq
+python-dotenv
+reportlab
